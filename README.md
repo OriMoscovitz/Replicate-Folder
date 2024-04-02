@@ -12,4 +12,4 @@ In order to run the script you must provide the arguments in the order:
 Log file, source path and destination path.
 
 For example:
-powershell.exe -File "<Insert-Path-To-PS-File>" "<Insert-Path-To-Source-Folder>" "<Insert-Path-To-Destination-Folder>"
+powershell.exe -File "Insert-Path-To-PS-File" "Insert-Path-To-Source-Folder" "Insert-Path-To-Destination-Folder"
